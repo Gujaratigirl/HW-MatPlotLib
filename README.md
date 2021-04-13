@@ -5,16 +5,16 @@
 Your tasks are to do the following:
 
 * Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
- 5 data points found that have duplicate information- Mouse ID -g989 Timepoints-0,5,10,15,20
+  *5 data points found that have duplicate information- Mouse ID -g989 Timepoints-0,5,10,15,20
  
 * Use the cleaned data for the remaining steps.
- Clean dataframe name- clean_mice_df
+  *Clean dataframe name- clean_mice_df
  
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
- Used a loop and if statement to accomplish this for all 10 drugs.
+  *Used a loop and if statement to accomplish this for all 10 drugs.
 
 * Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the total number of measurements taken for each treatment regimen throughout the course of the study.
- Created a bar plot for the different drugs and count of how many times they were measuered.
+  *Created a bar plot for the different drugs and count of how many times they were measuered.
 
   * **NOTE:** These plots should look identical.
 
