@@ -1,5 +1,16 @@
 # Matplotlib Homework - The Power of Plots
 
+**Please use file pymaceuticals_starter_2.ipynb.** 
+
+
+
+
+
+
+
+
+
+
 ![Image of Mouse count all Timepoints Grouped by Drug Name](Pymaceuticals/Images/Drug_Sample_Count.png)
 ![Statistics DataFrame for Cleaned Data](Pymaceuticals/Images/clean_final_df.png)
 
