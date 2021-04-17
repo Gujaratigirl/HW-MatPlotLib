@@ -1,6 +1,6 @@
 # Matplotlib Homework - The Power of Plots
 
-![Image of Mouse count all Timepoints Grouped by Drug Name]("Pymaceuticals/Images/Drug Sample Count.png")
+![Image of Mouse count all Timepoints Grouped by Drug Name]("Pymaceuticals/Images/Drug_Sample_Count.png")
 ![Statistics DataFrame for Cleaned Data](Pymaceuticals/Images/clean_final_df.png)
 
 # Progress on homework
