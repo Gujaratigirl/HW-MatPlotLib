@@ -1,12 +1,12 @@
 # Matplotlib Homework - The Power of Plots
 
-![Statistics DataFrame for Cleaned Data](Pymaceuticals/Images/clean_final_df.png)
+
 
 ![Image of Mouse count all Timepoints Grouped by Drug Name](Pymaceuticals/Images/Drug Sample Count.png)
 
 
 # Progress on homework
-
+![Statistics DataFrame for Cleaned Data](Pymaceuticals/Images/clean_final_df.png)
 Your tasks are to do the following:
 
 * Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
