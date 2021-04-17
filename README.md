@@ -1,8 +1,8 @@
 # Matplotlib Homework - The Power of Plots
 
-![Statistics DataFrame for Cleaned Data](/Pymaceuticals/Images/clean_final_df.png)
+![Statistics DataFrame for Cleaned Data](Pymaceuticals/Images/clean_final_df.png)
 
-![Image of Mouse count all Timepoints Grouped by Drug Name](/Pymaceuticals/Images/Drug Sample Count.png)
+![Image of Mouse count all Timepoints Grouped by Drug Name](Pymaceuticals/Images/Drug Sample Count.png)
 
 
 # Progress on homework
