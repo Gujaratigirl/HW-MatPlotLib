@@ -38,4 +38,4 @@ I believe there are some short comings in the data that was provided and the gra
 -The data didn't state how long the study lasted (timepoints were not properly defined).  Could some mice have been removed from the study or died.  Should we have only used data from mice that recieved the same amount of drug and time within the study?  This could be explored with more tables.
 -We also didn't look at how the sex was distributed by drug regimen.  One sex may be more receptive to a specific drug than another.
 
-With the data that was analysed I would say that drugs Capomulin is the best out of the 9 and Ramicane is second.  As the final tumor size decreased for all of the mice in the study and the standard deviation and standard error of mean was low also.
+##With the data that was analysed I would say that drugs Capomulin is the best out of the 9 and Ramicane is second.  As the final tumor size decreased for all of the mice in the study and the standard deviation and standard error of mean was low also.
